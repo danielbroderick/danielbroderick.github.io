@@ -8,17 +8,21 @@
     font-size: 100px;
     color: #c80000;
 }
+.dropdown {
+    font-size: 90px;
+    color: goldenrod;
+}
 /* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-36 { font-size: 36px; }
  */
 .material-icons.md-24 { 
-font-size: 50px;
-line-height: 1;
-font-weight: 900;
-letter-spacing: -0.1em;
-color: white;
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 900;
+    letter-spacing: -0.1em;
+    color: white;
 }
 .material-icons.md-48 {
     font-size: 90px;
