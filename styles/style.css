@@ -2,7 +2,10 @@
 
 h1 {
     font-family: lores-12, sans-serif;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 2;
+    letter-spacing: -0.04em;
     font-style: normal;
     color: grey;
     }
@@ -12,10 +15,16 @@ h2 {
     font-weight: 400;
     font-style: normal;
     }
-
+/* 
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
-.material-icons.md-48 { font-size: 48px; }
+ */
+.material-icons.md-48 {
+    font-size: 120px;
+    line-height: 0.6;
+    font-weight: 900;
+    letter-spacing: 0em;"
+}
 
 /*** code is poetry ***/
