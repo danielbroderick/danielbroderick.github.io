@@ -1,6 +1,6 @@
 /* www.danielbroderick.com - running on danielbroderick.github.io */
 
-/* imports bootstrap icons */
+/* Imports Bootstrap Icons */
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css");
 
 h1 {
@@ -19,6 +19,7 @@ h2 {
     font-style: normal;
     }
 
+/* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
@@ -33,14 +34,14 @@ h2 {
     color: #c80000;
 }
 
-/* bootstrap icon styling */
+/* Bootstrap Icon Styling */
 .bi {
     display: inline-block;
     font-size: 120px;
     color: #c80000;
 }
 
-/* Adobe fonts */
+/* Adobe Fonts */
 
 /* font-family: kobenhavn-pictos,sans-serif;
 font-weight: 900;
