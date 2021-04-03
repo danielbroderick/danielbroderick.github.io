@@ -1,9 +1,15 @@
 /*** danielbroderick.github.io ***/
 
-h1, h2 {
+h1 {
     font-family: lores-12, sans-serif;
-}
+    font-weight: 700;
+    font-style: normal;
+    }
 
-
+h1 {
+    font-family: lores-9-minus-narrow, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
 
 /*** code is poetry ***/
