@@ -1,4 +1,4 @@
-/*** danielbroderick.github.io ***/
+/* danielbroderick.github.io */
 
 h1 {
     font-family: lores-12, sans-serif;
@@ -7,7 +7,7 @@ h1 {
     line-height: 2;
     letter-spacing: -0.04em;
     font-style: normal;
-    color: grey;
+    color: lightslategrey;
     }
 
 h2 {
@@ -25,6 +25,6 @@ h2 {
     line-height: 0.6;
     font-weight: 900;
     letter-spacing: 0em;
+    color: rgba(200, 0, 0, 0.33);
 }
-
-/*** code is poetry ***/
+/* code is poetry */
