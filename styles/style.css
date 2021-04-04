@@ -8,7 +8,7 @@
     font-size: 100px;
     color: #c80000;
 }
-.dropdown {
+.nav-item.dropdown {
     font-size: 50px;
     color: goldenrod;
 }
