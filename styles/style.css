@@ -38,7 +38,7 @@
 	background-color: black;
 }
 .navbar {
-    background-image: linear-gradient(to right, #212529 , rgba(113, 128, 142, 0%));
+    background-image: linear-gradient(to right, #212529 , #71808e);
 }
 /* .btn-primary {
 	color: #fff;
