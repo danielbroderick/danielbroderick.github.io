@@ -94,6 +94,14 @@ body {
     letter-spacing: -0.02em;
     color: #343a40;
 }
+/* styling for modal youtube */
+#video-section .modal-content {
+    min-width: 600px;
+}
+#video-section .modal-content iframe {
+    width: 560px;
+    height: 315px;
+}
 /* Adobe Fonts */
 
 /* font-family: kobenhavn-pictos,sans-serif;

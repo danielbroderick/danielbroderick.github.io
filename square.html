@@ -97,12 +97,53 @@
   <p>
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
   </p>
+  <!-- testing youtube video embedded within a modal solution from here: https://codepen.io/richierich25/pen/yLOOYBL -->
+  <section id="video-section" class="py-5 text-center text-white">
+    <div class="container h-100 d-flex justify-content-center">
+       <div class="row align-self-center">
+          <div class="col">
+             <div class="card bg-dark border-0 mb-2 text-white">
+                <div class="card-body">
+                   <a href="#" class="btn btn-primary bg-dark stretched-link video-link" data-video="https://www.youtube.com/embed/HnwsG9a5riA" data-toggle="modal" data-target="#video-modal">
+                   <i class="fas fa-play fa-3x"></i>
+                   </a>
+                   <h1 class="card-title">Play Video</h1>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+    <!-- Video Modal -->
+    <div class="modal fade" id="video-modal" tabindex="-1" role="dialog">
+       <div class="modal-dialog h-100 d-flex align-items-center">
+          <div class="modal-content">
+             <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal">
+                <span>&times;</span>
+                </button>
+                <iframe frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             </div>
+          </div>
+       </div>
+    </div>
     <!-- Tweaking variable fonts/icons using Firefox dev tools. Linky: https://youtu.be/aQDglz5sZSk -->
     <span class="material-icons md-48">
       school palette movie memory sports_mma military_tech local_police construction security
     </span>
     <i class="bi bi-link"></i>
     <i class="bi bi-umbrella-fill"></i>
+    <!-- embedded javascript for youtube modal -->
+    <script>// javascript using jQuery - can embed in the script tag
+        $(".video-link").click(function () {    
+        var theModal = $(this).data("target");
+        videoSRC = $(this).attr("data-video");
+        videoSRCauto = videoSRC + "?modestbranding=1&rel=0&showinfo=0&html5=1&autoplay=1";
+        $(theModal + ' iframe').attr('src', videoSRCauto);
+        $(theModal + ' button.close').click(function () {
+        $(theModal + ' iframe').attr('src', videoSRC);
+        });
+        });
+    </script>
     <!-- Optional jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
     </script>
