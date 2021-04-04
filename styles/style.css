@@ -11,10 +11,6 @@
 /* .bi-circle {
     color: white;
 } */
-/* .nav-item.dropdown {
-    font-size: 50px;
-    color: goldenrod;
-} */
 .dropdown-menu {
 	top: 75%;
 	left: -15px;
@@ -34,6 +30,9 @@
 	color: #16181b;
 	text-decoration: none;
 	background-color: black;
+}
+.navbar {
+    background-image: linear-gradient(to right, #212529 , hsl(210, 11%, 35%));
 }
 /* .btn-primary {
 	color: #fff;
