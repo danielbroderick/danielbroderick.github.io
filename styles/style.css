@@ -101,6 +101,9 @@ body {
     letter-spacing: -0.02em;
     color: #212529;
 }
+.content {
+    margin-left: 20px;
+}
 /* BS Carousel Styling */
 /* .carousel-inner {
 	width: 640px;
