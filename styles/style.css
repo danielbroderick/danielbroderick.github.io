@@ -102,7 +102,7 @@ body {
     color: #343a40;
 }
 /* BS Carousel Styling */
-.carousel-item {
+.carousel-slide {
     width: 640px;
 }
 /* styling for modal youtube */
