@@ -102,8 +102,9 @@ body {
     color: #212529;
 }
 /* BS Carousel Styling */
-.carousel-slide {
-    width: 640px;
+.carousel-inner {
+	width: 640px;
+	overflow: hidden;
 }
 /* styling for modal youtube */
 #video-section .modal-content {
