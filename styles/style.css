@@ -6,16 +6,16 @@
 .bi {
     display: inline-block;
     font-size: 100px;
-    color: #c80000;
+    color: #343a40;
 }
-.nav-item.dropdown {
+/* .nav-item.dropdown {
     font-size: 50px;
     color: goldenrod;
-}
+} */
 .dropdown-menu {
-        color:darkslategrey;
+        color:#343a40;
         text-align: center;
-        background-color:darkslategrey;
+        background-color:#343a40;
         ;
 }
 /* Google Material Icon Styling */
@@ -35,7 +35,7 @@
     line-height: 1;
     font-weight: 900;
     letter-spacing: -0.1em;
-    color: #c80000;
+    color: #343a40;
 }
 h1 {
     font-family: lores-12, sans-serif;
