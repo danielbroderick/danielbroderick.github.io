@@ -16,7 +16,11 @@
         color:#343a40;
         text-align: center;
         background-color:#343a40;
-        ;
+}
+.btn-primary {
+	color: #fff;
+	/* background-color: #007bff; */
+	/* border-color: #007bff; */
 }
 /* Google Material Icon Styling */
 /* 
@@ -54,7 +58,7 @@ h2 {
     }
 
 body {
-    font-family: lores-9-minus-narrow, sans-serif;
+    font-family:monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 1rem;
