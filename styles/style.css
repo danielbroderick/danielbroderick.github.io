@@ -22,6 +22,11 @@
 	background-color: transparent;
 	border-color: transparent;
 }
+.dropdown-item:focus, .dropdown-item:hover {
+	color: #16181b;
+	text-decoration: none;
+	background-color: black;
+}
 /* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
