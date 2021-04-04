@@ -8,8 +8,8 @@
     font-size: 100px;
     color: #c80000;
 }
-.nav-item.dropdown {
-    font-size: 90px;
+.dropdown {
+    font-size: 50px;
     color: goldenrod;
 }
 /* Google Material Icon Styling */
