@@ -101,6 +101,10 @@ body {
     letter-spacing: -0.02em;
     color: #343a40;
 }
+/* BS Carousel Styling */
+.carousel-item {
+    width: 640px;
+}
 /* styling for modal youtube */
 #video-section .modal-content {
     min-width: 600px;
