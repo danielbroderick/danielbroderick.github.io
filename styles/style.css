@@ -6,7 +6,7 @@
 .bi {
     display: inline-block;
     font-size: 100px;
-    color: #343a40;
+    color: #212529;
 }
 /* .bi-circle {
     color: white;
@@ -33,7 +33,7 @@
     padding: 0.5rem 0.75rem;
 }
 .dropdown-item:focus, .dropdown-item:hover {
-	color: #16181b;
+	color: black;
 	text-decoration: none;
 	background-color: black;
 }
@@ -73,7 +73,7 @@
     line-height: 1;
     font-weight: 900;
     letter-spacing: -0.1em;
-    color: #343a40;
+    color: #212529;
 }
 h1 {
     font-family: lores-12, sans-serif;
@@ -82,7 +82,7 @@ h1 {
     line-height: 2;
     letter-spacing: -0.04em;
     font-style: normal;
-    color: #343a40;
+    color: #212529;
     }
 
 h2 {
@@ -99,7 +99,7 @@ body {
     font-size: 1rem;
     line-height: 1;
     letter-spacing: -0.02em;
-    color: #343a40;
+    color: #212529;
 }
 /* BS Carousel Styling */
 .carousel-slide {
