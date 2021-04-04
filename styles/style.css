@@ -8,29 +8,19 @@
     font-size: 100px;
     color: #343a40;
 }
-.bi-circle {
+/* .bi-circle {
     color: white;
-}
+} */
 /* .nav-item.dropdown {
     font-size: 50px;
     color: goldenrod;
 } */
 .dropdown-menu {
-	position: absolute;
 	top: 75%;
 	left: -15px;
-	z-index: 1000;
-	display: none;
-	float: left;
-	min-width: 5rem;
-	padding: 1rem 0;
-	margin: .125rem 0 0;
 	font-size: 1rem;
 	color: #212529;
     background-color: #212529;
-    background-clip: padding-box;
-	border: 1px solid rgba(0,0,0,.15);
-	border-radius: 0rem;
 }
 .btn-blank {
     background-color: transparent;
