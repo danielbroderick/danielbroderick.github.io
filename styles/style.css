@@ -13,11 +13,14 @@
     color: goldenrod;
 } */
 .dropdown-menu {
-        color:#343a40;
-        text-align: center;
-        background-color:#343a40;
+    color:#343a40;
+    text-align: center;
+    background-color:#343a40;
 }
-.btn-primary {
+.btn-blank {
+    background-color: transparent;
+}
+/* .btn-primary {
 	color: #fff;
 	background-color: transparent;
 	border-color: transparent;
@@ -32,6 +35,11 @@
 	text-decoration: none;
 	background-color: black;
 }
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	color: #fff;
+	background-color: #0062cc;
+	border-color: #005cbf;
+} */
 /* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
