@@ -12,6 +12,12 @@
     font-size: 50px;
     color: goldenrod;
 }
+.dropdown-menu {
+        color:darkslategrey;
+        text-align: center;
+        background-color:darkslategrey;
+        ;
+}
 /* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
