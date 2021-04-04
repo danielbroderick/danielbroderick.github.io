@@ -32,7 +32,7 @@
 	background-color: black;
 }
 .navbar {
-    background-image: linear-gradient(to right, #212529 , hsl(210, 11%, 35%));
+    background-image: linear-gradient(to right, #212529 , rgba(113, 128, 142, 0%));
 }
 /* .btn-primary {
 	color: #fff;
