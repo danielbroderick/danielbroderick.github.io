@@ -22,6 +22,7 @@
 }
 .btn-blank {
     background-color: transparent;
+    border-color: transparent;
 }
 /* .btn-primary {
 	color: #fff;
