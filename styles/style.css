@@ -17,10 +17,10 @@
         text-align: center;
         background-color:#343a40;
 }
-.btn {
+.btn-primary {
 	color: #fff;
-	background-color: none;
-	border-color: none;
+	background-color: transparent;
+	border-color: transparent;
 }
 /* Google Material Icon Styling */
 /* 
