@@ -8,9 +8,6 @@
     font-size: 100px;
     color: #212529;
 }
-/* .bi-circle {
-    color: white;
-} */
 .dropdown-menu {
 	top: 75%;
 	left: -16px;
@@ -73,6 +70,7 @@
     line-height: 1;
     font-weight: 900;
     letter-spacing: -0.1em;
+    transform: rotate(45deg);
     color: #212529;
 }
 h1 {
