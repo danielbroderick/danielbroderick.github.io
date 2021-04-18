@@ -75,6 +75,7 @@
 /* this is for rotating individual icons */
 .icon-rotated {
     transform: rotate(90deg);
+    display: inline-block;
 }
 h1 {
     font-family: lores-12, sans-serif;
