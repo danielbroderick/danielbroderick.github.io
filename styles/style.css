@@ -70,8 +70,10 @@
     line-height: 1;
     font-weight: 900;
     letter-spacing: -0.1em;
-    transform: rotate(45deg);
     color: #212529;
+}
+.icon-rotated {
+    transform: rotate(90deg);
 }
 h1 {
     font-family: lores-12, sans-serif;
