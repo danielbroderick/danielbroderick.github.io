@@ -56,17 +56,20 @@
                   </div>
                   <div class="modal-body">
                   <!-- new formspree form added -->
-                  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvjbpje" method="post">
-                    <fieldset id="fs-frm-inputs">
-                      <label for="full-name">Full Name</label>
-                      <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-                      <label for="email-address">Email Address</label>
-                      <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-                      <label for="message">Message</label>
-                      <textarea rows="5" name="message" id="message" placeholder="render-farm singularity pistol jeans geodesic woman cyber- table human. woman free-market industrial grade savant concrete papier-mache free-market rain nano-. order-flow 3D-printed stimulate geodesic Chiba meta- sensory drugs paranoid." required=""></textarea>
-                      <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-                    </fieldset>
-                    <input type="submit" value="Submit">
+                  <form
+                    action="https://formspree.io/f/xjvjbpje"
+                    method="POST">
+                    <label>
+                      Email
+                    <input type="email" name="_replyto">
+                    </label>
+                    <label>
+                      Message
+                    <textarea name="message"></textarea>
+                    </label>
+                    <!-- add other form fields here -->
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Send</button>
                   </form>
                   </div>
                 </div>
