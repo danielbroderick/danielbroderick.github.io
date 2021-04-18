@@ -72,6 +72,7 @@
     letter-spacing: -0.1em;
     color: #212529;
 }
+/* this is for rotating individual icons */
 .icon-rotated {
     transform: rotate(0.25turn);
 }
