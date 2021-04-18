@@ -17,6 +17,12 @@
     <!-- https://material.io/resources/icons/?style=baseline -->
     <link href="https://fonts.googleapis.com/css2?family=Material+Icons"
           rel="stylesheet">
+    <!-- enables all popovers in the document -->
+    <script>
+      $(document).ready(function(){
+        $('[data-toggle="popover"]').popover();
+      });
+      </script>
     <!-- and some of my own tweaks -->
     <link rel="stylesheet" href="styles/style.css">
     <title>danielbroderick.com</title>
@@ -112,12 +118,6 @@
         construction
         </span>
     </div>
-    <!-- enables all popovers in the document -->
-    <script>
-      $(document).ready(function(){
-        $('[data-toggle="popover"]').popover();
-      });
-      </script>
     <!-- Optional jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
     </script>
