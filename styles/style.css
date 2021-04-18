@@ -73,7 +73,7 @@
     color: #212529;
 }
 .icon-rotated {
-    transform: rotate(90deg);
+    transform: rotate(0.25turn);
 }
 h1 {
     font-family: lores-12, sans-serif;
