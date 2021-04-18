@@ -17,12 +17,6 @@
     <!-- https://material.io/resources/icons/?style=baseline -->
     <link href="https://fonts.googleapis.com/css2?family=Material+Icons"
           rel="stylesheet">
-    <!-- enables all popovers in the document -->
-    <script>
-      $(document).ready(function(){
-        $('[data-toggle="popover"]').popover();
-      });
-      </script>
     <!-- and some of my own tweaks -->
     <link rel="stylesheet" href="styles/style.css">
     <title>danielbroderick.com</title>
@@ -105,18 +99,24 @@
           And the <b>C-game</b><i>failsafe plan</i> is professional security work.<br>        
         </p>
         <!-- Tweaking variable fonts/icons using Firefox dev tools. Linky: https://youtu.be/aQDglz5sZSk -->
-        <span class="material-icons md-48" data-toggle="popover" title="Education" data-content="BFA Digital Studio Practices (Digital Drawing & Painting) UWM | Currently working towards an MA in Digital Media at NUIG">
-        school
-        </span>
-        <span class="material-icons md-48">
-        palette 
-        movie 
-        memory 
-        sports_mma 
-        military_tech 
-        local_police 
-        construction
-        </span>
+        <div>
+          <a href="#" title="Education" class="material-icons md-48" data-toggle="popover" data-trigger="hover" data-content="BFA Digital Studio Practices (Digital Drawing & Painting) UWM | Currently working towards an MA in Digital Media at NUIG">school</a>
+          <span class="material-icons md-48">
+          palette 
+          movie 
+          memory 
+          sports_mma 
+          military_tech 
+          local_police 
+          construction
+          </span>
+          <!-- enables all popovers in the document -->
+          <script>
+          $(document).ready(function(){
+          $('[data-toggle="popover"]').popover();
+          });
+          </script>
+        </div>
     </div>
     <!-- Optional jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
