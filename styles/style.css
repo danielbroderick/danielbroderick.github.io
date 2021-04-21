@@ -76,6 +76,7 @@
 }
 a:link, a:visited, a:hover, a:active {
     text-decoration: none;
+    color: black;
     }
 h1 {
     font-family: lores-12, sans-serif;
