@@ -51,29 +51,6 @@
     color: #FFFFFF;
     padding: 25px;
 }
-/* Popover Arrow */
-.arrow {
-    border-right-color: red !important;
-}
-/* .navbar {
-    background-image: linear-gradient(to right, #212529 , #71808e);
-} */
-/* .btn-primary {
-	color: #fff;
-	background-color: transparent;
-	border-color: transparent;
-}
-.btn-primary:hover {
-	color: #fff;
-	background-color: transparent;
-	border-color: transparent;
-}
-
-.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
-	color: #fff;
-	background-color: #0062cc;
-	border-color: #005cbf;
-} */
 /* Google Material Icon Styling */
 /* 
 .material-icons.md-18 { font-size: 18px; }
@@ -97,6 +74,9 @@
 .icon-rotated {
     transform: rotate(90deg);
 }
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    }
 h1 {
     font-family: lores-12, sans-serif;
     font-weight: 600;
@@ -106,14 +86,12 @@ h1 {
     font-style: normal;
     color: #212529;
     }
-
 h2 {
     font-family: lores-9-minus-narrow, sans-serif;
     font-weight: 400;
     font-style: normal;
     line-height: 2;
     }
-
 body {
     font-family: lores-9-minus-narrow, sans-serif;
     /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
