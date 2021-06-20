@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Daniel &#8211; danielbroderick.com</title>
-	<atom:link href="/E:/GITHUB/danielbroderick.github.io/author/daniel/feed/" rel="self" type="application/rss+xml" />
-	<link>/E:/GITHUB/danielbroderick.github.io</link>
+	<atom:link href="/author/daniel/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 16 Jun 2021 21:52:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/cropped-cropped-db-avatar-grr-32x32.png</url>
+	<url>/wp-content/uploads/2021/06/cropped-cropped-db-avatar-grr-32x32.png</url>
 	<title>Daniel &#8211; danielbroderick.com</title>
-	<link>/E:/GITHUB/danielbroderick.github.io</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Final Post</title>
-		<link>/E:/GITHUB/danielbroderick.github.io/2021/06/16/final-post/</link>
-					<comments>/E:/GITHUB/danielbroderick.github.io/2021/06/16/final-post/#respond</comments>
+		<link>/2021/06/16/final-post/</link>
+					<comments>/2021/06/16/final-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 16 Jun 2021 21:52:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/E:/GITHUB/danielbroderick.github.io/?p=94</guid>
+		<guid isPermaLink="false">/?p=94</guid>
 
 					<description><![CDATA[Community I always liked the concept that Communication + Unity = Community, but haven&#8217;t meditated on why. In my experience, a neighborhood is healthy when its community of families is open and unified, and I see cities as larger, frankensteined patchwork structures of the more human-scaled neighborhoods. I think that a healthy city would require [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="640" height="640" src="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/brickage.png" alt="" class="wp-image-95 size-full" srcset="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/brickage.png 640w, /E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/brickage-300x300.png 300w, /E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/brickage-150x150.png 150w" sizes="(max-width: 640px) 100vw, 640px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="640" height="640" src="/wp-content/uploads/2021/06/brickage.png" alt="" class="wp-image-95 size-full" srcset="/wp-content/uploads/2021/06/brickage.png 640w, /wp-content/uploads/2021/06/brickage-300x300.png 300w, /wp-content/uploads/2021/06/brickage-150x150.png 150w" sizes="(max-width: 640px) 100vw, 640px" /></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">Community</p>
 
 
@@ -64,24 +64,24 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/E:/GITHUB/danielbroderick.github.io/2021/06/16/final-post/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/06/16/final-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>2nd Post</title>
-		<link>/E:/GITHUB/danielbroderick.github.io/2021/06/16/2nd-post/</link>
-					<comments>/E:/GITHUB/danielbroderick.github.io/2021/06/16/2nd-post/#respond</comments>
+		<link>/2021/06/16/2nd-post/</link>
+					<comments>/2021/06/16/2nd-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 16 Jun 2021 20:47:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/E:/GITHUB/danielbroderick.github.io/?p=91</guid>
+		<guid isPermaLink="false">/?p=91</guid>
 
 					<description><![CDATA[Social Media is Antisocial Social Media is actually extremely antisocial if you look at what&#8217;s happening with the mobs of arrogantly opinionated twits on Twitter. Functionally, social media apps are designed to allow users to troll and block each other. These are features, nut bugs. Similarly, the hysterically anti-scientific 2M Social Distancing mandate is actually [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="900" src="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/monotype-photo-01.jpg" alt="" class="wp-image-92 size-full" srcset="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/monotype-photo-01.jpg 600w, /E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/monotype-photo-01-200x300.jpg 200w" sizes="(max-width: 600px) 100vw, 600px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="900" src="/wp-content/uploads/2021/06/monotype-photo-01.jpg" alt="" class="wp-image-92 size-full" srcset="/wp-content/uploads/2021/06/monotype-photo-01.jpg 600w, /wp-content/uploads/2021/06/monotype-photo-01-200x300.jpg 200w" sizes="(max-width: 600px) 100vw, 600px" /></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">Social Media is Antisocial</p>
 
 
@@ -102,24 +102,24 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/E:/GITHUB/danielbroderick.github.io/2021/06/16/2nd-post/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/06/16/2nd-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Intro Post</title>
-		<link>/E:/GITHUB/danielbroderick.github.io/2021/06/09/first-post/</link>
-					<comments>/E:/GITHUB/danielbroderick.github.io/2021/06/09/first-post/#respond</comments>
+		<link>/2021/06/09/first-post/</link>
+					<comments>/2021/06/09/first-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 09 Jun 2021 04:55:47 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/E:/GITHUB/danielbroderick.github.io/?p=39</guid>
+		<guid isPermaLink="false">/?p=39</guid>
 
 					<description><![CDATA[Blogs are dead. I tried this new-fangled idea of &#8220;web-logging&#8221; my thoughts once back when WordPress was a new thing, but I found that, unless you&#8217;re one of the microscopic percentile of opinionated pundits or enlightened tech-gurus that has a following, it&#8217;s just a huge waste of time and effort for what ultimately amounts to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:44% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="800" src="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/pinhole-photo-01.jpg" alt="" class="wp-image-29 size-full" srcset="/E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/pinhole-photo-01.jpg 600w, /E:/GITHUB/danielbroderick.github.io/wp-content/uploads/2021/06/pinhole-photo-01-225x300.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:44% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="800" src="/wp-content/uploads/2021/06/pinhole-photo-01.jpg" alt="" class="wp-image-29 size-full" srcset="/wp-content/uploads/2021/06/pinhole-photo-01.jpg 600w, /wp-content/uploads/2021/06/pinhole-photo-01-225x300.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size">Blogs are dead.</p>
 
 
@@ -136,7 +136,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/E:/GITHUB/danielbroderick.github.io/2021/06/09/first-post/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/06/09/first-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

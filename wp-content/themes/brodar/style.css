@@ -21,6 +21,6 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
-@import '/E:/GITHUB/danielbroderick.github.io/wp-content/themes/brodar/styles/brodar.css';
-@import '/E:/GITHUB/danielbroderick.github.io/wp-content/themes/brodar/bootstrap/css/bootstrap.css';
-@import '/E:/GITHUB/danielbroderick.github.io/wp-content/themes/brodar/styles/custom.css';
+@import '/wp-content/themes/brodar/styles/brodar.css';
+@import '/wp-content/themes/brodar/bootstrap/css/bootstrap.css';
+@import '/wp-content/themes/brodar/styles/custom.css';

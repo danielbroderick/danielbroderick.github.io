@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for danielbroderick.com	</title>
-	<atom:link href="/E:/GITHUB/danielbroderick.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/E:/GITHUB/danielbroderick.github.io</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 16 Jun 2021 22:09:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
