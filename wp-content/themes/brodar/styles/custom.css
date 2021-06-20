@@ -1,0 +1,157 @@
+/* Layout */
+  .page {
+    margin-bottom: 0;
+  }
+
+  .post {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+    outline: solid;
+    padding: 15px;
+  }
+
+  .site-header, .container-fluid {
+    position: fixed;
+    z-index: 1;
+    background-color: #333;
+    max-height: 100px;
+  }
+
+  .custom-logo-link {
+    height: 48px;
+  }
+  
+  .site-main {
+    padding-top: 120px;
+    padding-bottom: 60px;
+  }
+  
+  .site-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+  }
+
+  .entry-footer {
+    text-justify: auto;
+  }
+
+  /* Typography */
+  h1 {
+    text-align: left;
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  
+  h2 {
+    text-align: left;
+    color: #333;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 60%;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #333;
+    font-size: 12px;
+    font-weight: 300;
+  }
+  
+  .site-footer a {
+    color: #fff;
+  }
+
+  .entry-header {
+    font-size: 18px;
+    font-weight:700;
+    position: relative;
+  }
+
+  .typewriter {
+    color: #333;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid goldenrod; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 2.5s steps(30, end),
+      blink-caret .5s step-end;
+      /* blink-caret .5s step-end infinite; */
+  }
+
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: goldenrod }
+  }
+
+  /* Navigation Menu */
+  .nav-menu li {
+    margin-top: 30px;
+    padding-left: 10px; 
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .nav-menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-menu li .current_page_item {
+    background-color: goldenrod;
+  }
+  
+  .nav-menu li:hover {
+    background-color: goldenrod;
+  }
+
+  .admin-link a {
+    color:lightslategrey !important;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 700 !important;
+    float: right;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+  }
+  
+  /* Forms */
+  .nf-form-cont, .ninja-forms-field, .nf-element{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #333;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  /* ^ this is copied from Bootstrap's Forms CSS */
+  
