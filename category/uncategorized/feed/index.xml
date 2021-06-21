@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 16 Jun 2021 21:52:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jun 2021 04:33:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Final Post</title>
 		<link>/2021/06/16/final-post/</link>
-					<comments>/2021/06/16/final-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 16 Jun 2021 21:52:44 +0000</pubDate>
@@ -64,15 +63,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/06/16/final-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>2nd Post</title>
 		<link>/2021/06/16/2nd-post/</link>
-					<comments>/2021/06/16/2nd-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 16 Jun 2021 20:47:07 +0000</pubDate>
@@ -102,15 +98,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/06/16/2nd-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Intro Post</title>
 		<link>/2021/06/09/first-post/</link>
-					<comments>/2021/06/09/first-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
 		<pubDate>Wed, 09 Jun 2021 04:55:47 +0000</pubDate>
@@ -136,8 +129,6 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/06/09/first-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
