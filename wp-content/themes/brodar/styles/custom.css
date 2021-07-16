@@ -3,14 +3,14 @@
     margin-bottom: 0;
   }
 
-  .post {
+  /* .post {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 66%;
     outline: solid;
     padding: 15px;
-  }
+  } */
 
   .site-header, .container-fluid {
     position: fixed;
@@ -61,18 +61,16 @@
   h3 {
     text-align: center;
     color: #333;
-    font-size: 12px;
+    font-size: 30px;
     font-weight: 300;
+  }
+
+  .entry-title {
+    display: none !important;
   }
   
   .site-footer a {
     color: #fff;
-  }
-
-  .entry-header {
-    font-size: 18px;
-    font-weight:700;
-    position: relative;
   }
 
   .typewriter {

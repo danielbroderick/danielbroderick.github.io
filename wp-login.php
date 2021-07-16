@@ -89,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/daniel-broderick\/my-website-wp\/wp-admi
 </script>
 <script src="/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"0bbaa8d69d"};
+var userProfileL10n = {"user_id":"0","nonce":"b9ccf7344e"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
