@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Jul 2021 11:49:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Sep 2021 21:33:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,26 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title></title>
+		<link>/2021/09/05/302/</link>
+					<comments>/2021/09/05/302/#respond</comments>
+		
+		<dc:creator><![CDATA[Daniel]]></dc:creator>
+		<pubDate>Sun, 05 Sep 2021 21:33:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=302</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video controls src="/wp-content/uploads/2021/09/Trinity_test.ogv"></video></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/09/05/302/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2021/09/Trinity_test.ogv" length="1042245" type="video/ogg" />
+
+			</item>
+	</channel>
 </rss>
