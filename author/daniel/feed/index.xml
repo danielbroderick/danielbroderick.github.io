@@ -12,7 +12,7 @@
 	<atom:link href="/author/daniel/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sun, 05 Sep 2021 21:39:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Sep 2021 21:48:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,12 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>TRINITY</title>
-		<link>/2021/09/05/302/</link>
+		<title></title>
+		<link>/2021/09/05/666/</link>
 		
 		<dc:creator><![CDATA[Daniel]]></dc:creator>
-		<pubDate>Sun, 05 Sep 2021 21:33:49 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=302</guid>
+		<pubDate>Sun, 05 Sep 2021 21:48:00 +0000</pubDate>
+				<guid isPermaLink="false">/?p=302</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
